@@ -1,13 +1,14 @@
 <div align="center">
 <h2><b>Volta</b></h2>
-<h4>Beginner to Intermediate Python Projects</h4>
+<h4>Python Projects</h4>
 </div>
 
 ## Overview
 
 
 ## Projects
-* ## [Tic Tac Toe]()
+* ### [Tic Tac Toe]()
+* ### [Web Scraping with Beautiful Soup]()
 
 
 ## To View

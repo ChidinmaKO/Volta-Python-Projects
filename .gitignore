@@ -1,2 +1,4 @@
 *.DS_Store
 *tempCodeRunnerFile.py
+*.ipynb_checkpoints
+*.vscode
