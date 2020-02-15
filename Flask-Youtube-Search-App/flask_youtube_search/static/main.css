@@ -1,0 +1,66 @@
+body {
+    background: #EAEAEA;
+    color: #1F1C18;
+    margin-top: 5rem;
+}
+
+div.page-container {
+    position: relative;
+    min-height: 100vh;
+}
+
+.bg-steel {
+    background-color: #780206;
+}
+
+.jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0;
+    background: #EAEAEA;
+}
+
+.jumbotron p:last-child {
+    margin-bottom: 0;
+}
+  
+.jumbotron-heading {
+    font-weight: 300;
+}
+
+.jumbotron .container {
+    max-width: 40rem;
+}
+
+.search {
+    background-color: #061161;
+    border: 1px solid #061161;
+    margin-right: 5px;
+}
+
+.search:hover {
+    background-color: #004e92;
+    border: 1px solid #004e92;
+}
+
+main.container.wrapper {
+    padding-bottom: 2.5rem;
+    background-color: green;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 1rem 0 0.5rem;
+    background-color: #780206;
+}
+
+.footer p a{
+    color: #FFFFFF;
+    text-decoration: underline;
+}
+
+.f-2 {
+    text-align: center;
+}
