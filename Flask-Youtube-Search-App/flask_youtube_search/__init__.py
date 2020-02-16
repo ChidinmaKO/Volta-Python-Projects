@@ -7,6 +7,8 @@ def create_app(config_file="config.py"):
 
     app.config.from_pyfile(config_file)
 
+    app.config['TEMPLATES_AUTO_RELOAD'] = True
+
     app.register_blueprint(main)
 
     return app

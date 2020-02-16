@@ -43,9 +43,18 @@ div.page-container {
     border: 1px solid #004e92;
 }
 
-main.container.wrapper {
-    padding-bottom: 2.5rem;
-    background-color: green;
+.view:hover {
+    background-color: #780206;
+    border: 1px solid #780206;
+    color: #FFFFFF;
+}
+
+.card-body {
+    height: 142px;
+}
+
+.card-text {
+    margin-bottom: 0.4rem;
 }
 
 footer {
@@ -62,5 +71,5 @@ footer {
 }
 
 .f-2 {
-    text-align: center;
+    text-align: right;
 }
