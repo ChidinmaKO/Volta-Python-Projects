@@ -12,7 +12,7 @@ def create_app(config_class=Config):
 
     db.init_app(app)
 
-    from movie_api.routes import main
+    from movie_api.resources import main
 
     app.register_blueprint(main)
 
